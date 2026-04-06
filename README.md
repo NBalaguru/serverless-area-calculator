@@ -63,5 +63,3 @@ With the steps outlined above, you can easily create your own serverless web app
 If you have any questions, suggestions, or would like to collaborate on this project, please don't hesitate to reach out. We welcome your contributions to make this project even better!
 
 ---
-
-*Author: [Kevin Kiruri](https://www.linkedin.com/in/kevin-kiruri/)*
